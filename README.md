@@ -3,4 +3,4 @@
 
 An utility to launch multiplayer sessions in BF2.
 
-Please see the release section for the first release!
+[Please see the release section for the first release!](https://github.com/CLStrike/bf2mplauncher/releases/tag/v1.4)
