@@ -6,7 +6,7 @@ An utility to launch multiplayer sessions in BF2.
 [Please see the release section for the first release!](https://github.com/CLStrike/bf2mplauncher/releases/tag/v1.4)
 
 
-:warning:**Unfortunately, this tool is no longer maintained.
+
 
 **Credits:**
 This utility used the following images.
@@ -15,3 +15,4 @@ This utility used the following images.
 - Battlefield logo (EA)
 
 
+:warning:**Unfortunately, this tool is no longer maintained, the project is here for archiving purposes
