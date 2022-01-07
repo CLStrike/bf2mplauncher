@@ -15,4 +15,4 @@ This utility used the following images.
 - Battlefield logo (EA)
 
 
-:warning:**Unfortunately, this tool is no longer maintained, the project is here for archiving purposes
+:warning:**Unfortunately, this tool is no longer maintained, the project is here for archiving purposes. Feel free to download it as it should still work.
